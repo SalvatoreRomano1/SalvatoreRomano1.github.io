@@ -5,7 +5,7 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "salvo"
   },
   "text": {
     "more": "First trial for porn_studies",
@@ -13,18 +13,18 @@
     "title": ""
   },
   "legend": {
-    "edgeLabel": "recommended video",
+    "edgeLabel": "video in home",
     "colorLabel": "genere",
-    "nodeLabel": "users and videos suggested"
+    "nodeLabel": "video in home / users"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "genere (type 1)",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "Author Name (type 2)"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
