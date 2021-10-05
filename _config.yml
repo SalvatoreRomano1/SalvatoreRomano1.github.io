@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false # true
-resume-url: CV_Salvatore_Romano.pdf # https://github.com/SalvatoreRomano1/About_Me/blob/main/CV_Salvatore_Romano.pdf
+resume-url: /pdf/CV_Salvatore_Romano.pdf # https://github.com/SalvatoreRomano1/About_Me/blob/main/CV_Salvatore_Romano.pdf
 
-url: https://SalvatoreRomano1.github.io/about
+url: https://SalvatoreRomano1.github.io
 your url: https://SalvatoreRomano1.github.io
 
 permalink: /:title/
