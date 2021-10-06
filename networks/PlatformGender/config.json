@@ -8,14 +8,14 @@
     "text": "salvo"
   },
   "text": {
-    "more": "First trial for porn_studies",
-    "intro": "First trial for porn_studies",
-    "title": ""
+    "more": "Read the full article: https://drive.google.com/file/d/1WBcUnLmbjJ6GYIOkeqL6MOf0JAkxsWNE/view",
+    "intro": "You can mouseover the title of all the videos suggested in the PornHub homepage 'for you' category",
+    "title": "JS visualization of the Heteronormativity Paper on Pornhub main result"
   },
   "legend": {
-    "edgeLabel": "video in home",
-    "colorLabel": "genere",
-    "nodeLabel": "video in home / users"
+    "edgeLabel": "Videos suggested in the homepage",
+    "colorLabel": "3 main clusters of videos",
+    "nodeLabel": "Connections between users and videos"
   },
   "features": {
     "search": true,
