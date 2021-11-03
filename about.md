@@ -4,14 +4,14 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-I graduated in social psychology from the University of Padova. I developed my interest in social media and algorithms during my collaboration with the DatActive team at the University of  Amsterdam.
+I graduated in social psychology from the University of Padova and I developed my interest in studying social media and algorithms during my collaboration with the [DatActive](https://data-activism.net/about/) team at the University of  Amsterdam.
 
-I am currently working on algorithm transparency and hate speech discourses on social media, specifically focusing on the political sphere. 
+I am currently working on algorithmic accountability and hate speech discourses on social media, specifically focusing on the political sphere. 
 
 As a member of the [tracking.exposed](https://tracking.exposed/) research team, I investigate [Youtube](https://youtube.tracking.exposed/) and [Pornhub's](https://pornhub.tracking.exposed/) algorithms. 
 You can take a look at  my last works on algorithmic [Polarization](https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube) and [Heteronormativity](https://drive.google.com/file/d/18OGpOiEmyosq3VK_Ogn_smeGq9kWx-Sl/view?usp=sharing).
 
-As a member of the"[Rete Nazionale per il contrasto ai linguaggi e ai fenomeni d'odio](https://www.retecontrolodio.org/chi-siamo/)", I work on text ana
+As a member of the"[Rete Nazionale per il contrasto ai linguaggi e ai fenomeni d'odio](https://www.retecontrolodio.org/chi-siamo/)", I work on text analysis on large corpus of text, such as social media's comments.
 You can read my [master thesis](https://github.com/SalvatoreRomano1/thesis) on the relationship between political communication and hate speech.
 
 <!-- 
