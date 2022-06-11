@@ -4,7 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-I graduated in social psychology from the University of Padova and I developed my interest in studying social media and algorithms during my collaboration with the [DatActive](https://data-activism.net/about/) team at the University of  Amsterdam.
+**Salvatore Romano is a Social Psychologist working on Algorithmic Accountability. He is the Head of Research at Tracking Exposed, where he combines qualitative and quantitative analysis to assess the impact of social media's algorithms on society. He works at the intersection of media campaigns, academic publications, and technical reporting for legal proceedings.**
+
+<!-- 
+I graduated in social psychology from the University of Padova and I developed my interest in studying social media and algorithms during my collaboration with the [DatActive](https://data-activism.net/about/) team at the University of Amsterdam.
 
 I am currently working on algorithmic accountability and hate speech discourses on social media, specifically focusing on the political sphere. 
 
@@ -14,10 +17,9 @@ You can take a look at  my last works on algorithmic [Polarization](https://wiki
 As a member of the"[Rete Nazionale per il contrasto ai linguaggi e ai fenomeni d'odio](https://www.retecontrolodio.org/chi-siamo/)", I work on text analysis on large corpus of text, such as social media's comments.
 You can read my [master thesis](https://github.com/SalvatoreRomano1/thesis) on the relationship between political communication and hate speech.
 
-<!-- 
-# I have been a teaching assistant for the University of Padova in the courses of "Persuasion and social influence" and "Social Network Analysis"; check the report of the teamwork I facilitated on [Semantic and Network analysis of Hate Speech](https://github.com/SalvatoreRomano1/net2020)
+I have been a teaching assistant for the University of Padova in the courses of "Persuasion and social influence" and "Social Network Analysis"; check the report of the teamwork I facilitated on [Semantic and Network analysis of Hate Speech](https://github.com/SalvatoreRomano1/net2020)
 
-# I collaborated with the Media Studies department of Amsterdam University; check the report of the last data sprint I facilitated during the previous [Digital Methods Winter School](https://wiki.digitalmethods.net/Dmi/WinterSchool2021) on "[Echo Chambers, Filter Bubble and Polarization on Youtube during the USA's post-electoral debate](https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube)".
+I collaborated with the Media Studies department of Amsterdam University; check the report of the last data sprint I facilitated during the previous [Digital Methods Winter School](https://wiki.digitalmethods.net/Dmi/WinterSchool2021) on "[Echo Chambers, Filter Bubble and Polarization on Youtube during the USA's post-electoral debate](https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube)".
 
 -->
 
