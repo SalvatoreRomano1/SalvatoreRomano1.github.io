@@ -14,7 +14,16 @@ description: "Material regarding a published papaer on pornhub algorithm"
 author: Salvatore Romano
 ---
 
-### Abstract:
+A collaboration between the University of Milan and Tracking Exposed aims to uncover how porn platforms exploit users' data and potentially include bias in their recommender systems.
+
+## MozzillaFest2022: **a 7 minutes presentation**
+
+<iframe
+    src="https://invidious.namazso.eu/embed/1v0uaRreYro"
+    style="width:100%; height:400px">
+ </iframe>
+
+### Abstract
 
 Popular pornographic websites are deemed to reinforce a male, white and heterosexual point of view and thus contribute to fostering hegemonic masculinity (Burke 2016), the sexualization of minorities (Fritz et al. 2020), and #heteronormative porn culture (Saunders 2020).
 
@@ -28,20 +37,27 @@ We consider how the recommending system changes according to users’ self-decla
 
 Based on this analysis, we argue that the combination of platform affordances and algorithmic suggestions on Pornhub significantly contributes to reiterating a heteronormative perspective on sexual #desire and #sexuality typical of heterosexual, white, and hegemonic masculinity.
 
-### Authors:
+### Authors
 
 #### Ilir Rama, Lucia Bainotti, Alessandro Gandini, Giulia Giorgi, Silvia Semenzin, Claudio Agosti, Giulia Corona, Salvatore Romano
 
+## Porn Studies Journal: [DOI](https://www.tandfonline.com/doi/full/10.1080/23268743.2022.2066566) and PDF
 
-## MozzillaFest2022: 7min paper summary
+<object data="https://mfr.osf.io/render?url=https://osf.io/download/6205146f12180100f6e36193/?direct%26mode=render" type="application/pdf" width="100%" height="400px">
+    <embed src="https://mfr.osf.io/render?url=https://osf.io/download/6205146f12180100f6e36193/?direct%26mode=render" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mfr.osf.io/render?url=https://osf.io/download/6205146f12180100f6e36193/?direct%26mode=render" type="application/pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-<iframe
-    src="https://invidious.namazso.eu/embed/1v0uaRreYro"
-    style="width:100%; height:300px">
- </iframe>
+## **Here is** the main graph **of the paper in an** <br> [interactive version](/networks/PlatformGender/) **I made in JavaScript**
 
-## Download the Pre-print [PDF](https://osf.io/preprints/socarxiv/4egzu).
+<object data="/networks/PlatformGender/" type="application/pdf" width="700px" height="700px">
+    <embed src="https://mfr.osf.io/render?url=https://osf.io/download/6205146f12180100f6e36193/?direct%26mode=render" type="application/pdf">
+        <p>This browser does not support the nested graph. You can view it <a href="https://salvatoreromano1.github.io/networks/PlatformGender/" type="application/pdf">HERE</a>.</p>
+    </embed>
+</object>
 
-## Visit the Porn Studies Journal and get the [DOI](https://www.tandfonline.com/doi/full/10.1080/23268743.2022.2066566).
+## **The project has been presented in several** international conferences and meetings, <br> **here some**
 
-## Visualize the main finding with an [additional interactive graph](/networks/PlatformGender/) I made with JavaScript and Sigmajs.
+* University of Padova, 2022 "[Digital intimacy and Emerging Adults](https://www.pastis-research.eu/call-for-participants-in-a-workshop-within-the-isrf-2021-2022-digital-intimacies-and-emerging-adults-in-southern-europe-crisis-pandemics-and-resistances-project-2/)". <br> [Tweet](https://nitter.net/Salv_Romano/status/156607587585409843)
+* Univerity of Milan, 2022 "[AlgoCount: Everyday Algorithms](https://algocount.org/events/algoritmi-quotidiani)". <br> [Tweet](https://nitter.net/trackingexposed/status/1545399765848018945#m)
