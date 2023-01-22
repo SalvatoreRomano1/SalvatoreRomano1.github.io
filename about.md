@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-**Salvatore Romano is a Social Psychologist working on Algorithmic Accountability. He is the Head of Research at Tracking Exposed, where he combines qualitative and quantitative analysis to assess the impact of social media's algorithms on society. He works at the intersection of media campaigns, academic publications, and technical reporting for legal proceedings.**
+**With a background in both Social Psychology and Algorithmic Accountability, I am a highly skilled transdisciplinary researcher. As the current Head of Research at Tracking Exposed, I have honed my abilities in both qualitative and quantitative research methods. My expertise lies in assessing the impact of so-called Artificial Intelligence on society, with a specific focus on privacy and digital rights. I have a proven track record of success in this field, and my work has been widely recognized and I have been interviewed by several international news outlets. In my role, I have been able to expertly navigate the intersection of media campaigns, academic research, and digital forensics to drive strategic litigation. I hold a degree in Social Psychology from the University of Padova and have built a strong network of collaborations, particularly with the Media Studies department at Amsterdam University.
+
+In addition to my professional work, I am also an activist involved in various social movements that promote climate and social justice. In my free time, I enjoy hiking long trails along the seaside and taking in the natural beauty of the coast.**
 
 <!-- 
 I graduated in social psychology from the University of Padova and I developed my interest in studying social media and algorithms during my collaboration with the [DatActive](https://data-activism.net/about/) team at the University of Amsterdam.
