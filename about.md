@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Salvatore Romano is an accomplished interdisciplinary researcher with a focus on the societal impact of Artificial Intelligence. As Head of Research at AI Forensics, he produces impactful reports for media campaigns, academic research, and digital forensics for strategic litigation, with a strong emphasis on privacy and digital rights. His unwavering dedication to ensuring an ethical and responsible implementation of AI in society has led to numerous invitations to speak at international conferences and interviews with prominent news outlets.
+Salvatore Romano is an accomplished transdisciplinary researcher with a focus on the societal impact of Artificial Intelligence. As Head of Research at AI Forensics, he produces impactful reports for media campaigns, academic research, and digital forensics for strategic litigation, with a strong emphasis on privacy and digital rights. His unwavering dedication to ensuring an ethical and responsible implementation of AI in society has led to numerous invitations to speak at international conferences and interviews with prominent news outlets.
 
 Outside of work, Salvatore enjoys challenging hikes along the seaside and is a passionate advocate for social and climate justice through his involvement in social movements.
 
